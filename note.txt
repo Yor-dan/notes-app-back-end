@@ -1,0 +1,5 @@
+Client Application:
+http://notesapp-v1.dicodingacademy.com/
+
+Block insecure private network requests:
+chrome://flags/#block-insecure-private-network-requests
